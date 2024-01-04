@@ -14,8 +14,7 @@ Miro Notes is a simple note-taking application built with Node.js, Express, and 
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [API Documentation](#api-documentation)
-4. [Contributing](#contributing)
-5. [License](#license)
+
 
 ## Installation
 
