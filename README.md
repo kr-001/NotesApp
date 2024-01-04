@@ -30,7 +30,7 @@ Miro Notes is a simple note-taking application built with Node.js, Express, and 
 git clone https://github.com/kr-001/NotesApp.git
 cd NotesApp
 ```
-##API Documentation
+## API Documentation
 -The API provides the following endpoints:
 
 - /api/auth/signup - User registration.
